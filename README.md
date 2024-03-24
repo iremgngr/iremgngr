@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İrem</h1>
 <h3 align="center">A passionate 3rd year computer engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **React Native and Web Development**
+- 🌱 I’m currently learning **React Native and .NET Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
